@@ -23,9 +23,9 @@ def kill_process_one():
     try:
         for p in pids_list:
             process=psutil.Process(p)
-            print(process)
+            # print(process)
             if process.name()=="daxformat_one_new.exe" and process.pid == pidx:
-                print(process.create_time())
+                # print(process.create_time())
                 t1=process.create_time()
             if process.name() == "daxformat_one_new.exe":
                 gap=t1-process.create_time()

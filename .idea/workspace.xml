@@ -9,7 +9,26 @@
     <bookmark url="file://$PROJECT_DIR$" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2069a86-3a8c-48e7-8cfb-9d127ee422c7" name="Default" comment="" />
+    <list default="true" id="b2069a86-3a8c-48e7-8cfb-9d127ee422c7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/dax_tools_main.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/warn-dax_tools_main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/dax_tools_main/xref-dax_tools_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dax_tools_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dax_tools_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daxformat_one_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/daxformat_one_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/dax_tools.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/daxformat_one_new.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/github_host.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +267,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/L/Desktop/DAX_Tools/dax_tools_main.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work_py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../venv1/Scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -285,8 +304,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dax_tools_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DAX Tools" />
+    <configuration name="dax_tools_main" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="DAX_Tools" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -307,8 +326,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="daxformat_one_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DAX Tools" />
+    <configuration name="daxformat_one_new" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="DAX_Tools" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -417,6 +436,9 @@
       <workItem from="1615121732843" duration="1833000" />
       <workItem from="1615127520039" duration="694000" />
       <workItem from="1615184668883" duration="20000" />
+      <workItem from="1615207239589" duration="1605000" />
+      <workItem from="1615214455050" duration="159000" />
+      <workItem from="1615214625707" duration="1382000" />
     </task>
     <servers />
   </component>
@@ -482,18 +504,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DAX_Tools$get_win_title.coverage" NAME="get_win_title 覆盖结果" MODIFIED="1615089672594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$t_1.coverage" NAME="t_1 覆盖结果" MODIFIED="1615095276771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$t_pyperclip__1_.coverage" NAME="t_pyperclip (1) 覆盖结果" MODIFIED="1615003271429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$get_metadata.coverage" NAME="get_metadata 覆盖结果" MODIFIED="1614999986485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$dax_tools_main3.coverage" NAME="dax_tools_main3 覆盖结果" MODIFIED="1615046908310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DAX_Tools$dax_tools_main.coverage" NAME="dax_tools_main 覆盖结果" MODIFIED="1615121387239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DAX_Tools$dax_tools_main.coverage" NAME="dax_tools_main 覆盖结果" MODIFIED="1615214747470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$test_pyperclip_py__pytest.coverage" NAME="test_pyperclip.py 中的 pytest 覆盖结果" MODIFIED="1615003158960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DAX_Tools$daxformat_one_new.coverage" NAME="daxformat_one_new 覆盖结果" MODIFIED="1615127590640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DAX_Tools$daxformat_one_new.coverage" NAME="daxformat_one_new 覆盖结果" MODIFIED="1615215386300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$t_1__1_.coverage" NAME="t_1 (1) 覆盖结果" MODIFIED="1615015108568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$format_all.coverage" NAME="format_all 覆盖结果" MODIFIED="1615025967389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DAX_Tools$add_measure_to_metadata.coverage" NAME="add_measure_to_metadata 覆盖结果" MODIFIED="1615089004688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
