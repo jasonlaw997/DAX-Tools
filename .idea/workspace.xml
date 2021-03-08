@@ -248,7 +248,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/L/Desktop/DAX_Tools/dax_tools_main.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work_py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -416,6 +416,7 @@
       <workItem from="1615107721244" duration="2236000" />
       <workItem from="1615121732843" duration="1833000" />
       <workItem from="1615127520039" duration="694000" />
+      <workItem from="1615184668883" duration="20000" />
     </task>
     <servers />
   </component>
