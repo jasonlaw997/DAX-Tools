@@ -24,6 +24,7 @@ C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External T
 
 
 Restart PowerBI and you will see
+
 ![](image\ig1.png)
 
 
@@ -109,8 +110,3 @@ When creating a new measure on the Tabular Editor, after renaming, enter will tr
 ##### 1. Why is there no change on pbix after the full file measurement is formatted?
 **Answer:** Modify any measurement on pbix at will, for example, add a space, then enter, the temporary database created by pbix will be refreshed, and the previous formatting and modification actions will also be refreshed; you can also create a new one on pbix A metric or refresh any table (preferably a very small table)
   
-  
-![](\image/1.png)
-![](\image/2.png)
-![](\image/3.png)
-![](\image/ba1.png)
